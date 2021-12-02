@@ -1,9 +1,3 @@
-"# streamlit-to-heroku-tutorial" 
+
 "# credit-approval" 
-"# credit-approval" 
-"# credit-approval" 
-"# credit-approval" 
-"# credit-approval" 
-"# credit-approval" 
-"# credit-approval" 
-"# credit-approval" 
+# CREDIT-ANALYZER
